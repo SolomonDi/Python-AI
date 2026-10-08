@@ -60,11 +60,11 @@
 ### 2. Скачать проект
 
 ```powershell
-git clone <ссылка-на-репозиторий>
-cd PneumoScan
+git clone https://github.com/SolomonDi/Python-AI.git
+cd Python-AI
 ```
 
-Или нажмите на GitHub **Code → Download ZIP** и распакуйте архив.
+Или откройте [страницу репозитория](https://github.com/SolomonDi/Python-AI), нажмите **Code → Download ZIP** и распакуйте архив.
 
 ### 3. Создать окружение и поставить библиотеки
 
@@ -267,7 +267,7 @@ python evaluate.py
 ## Структура проекта
 
 ```
-PneumoScan/
+Python-AI/
 ├── desktop_app.py            приложение для Windows (PySide6)
 ├── app.py                    веб-версия (Gradio)
 ├── predict.py                проверка снимков из командной строки
