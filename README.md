@@ -303,7 +303,7 @@ Python-AI/
 
 ---
 
-## Данные и лицензия
+## Данные
 
 Модель обучена на открытом наборе **Chest X-Ray Images** — Kermany D., Zhang K., Goldbaum M. (2018), *Labeled Optical Coherence Tomography (OCT) and Chest X-Ray Images for Classification*, Mendeley Data, V2, [doi:10.17632/rscbjbr9sj.2](https://data.mendeley.com/datasets/rscbjbr9sj/2). Лицензия [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 Снимки в папке `samples/` взяты из тестовой части этого набора.
